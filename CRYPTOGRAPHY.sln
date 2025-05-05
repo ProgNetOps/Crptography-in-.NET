@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35506.116 d17.12
+VisualStudioVersion = 17.12.35506.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRYPTOGRAPHY", "CRYPTOGRAPHY\CRYPTOGRAPHY.csproj", "{4C5F9A1F-630B-4182-A26C-C3BC822DCD58}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RandomNumberGenerator", "RandomNumberGenerator", "{0C6B3584-8D92-41B8-855C-907492C95D07}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Random Number", "1 - Random Number", "{0C6B3584-8D92-41B8-855C-907492C95D07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AES", "AES\AES.csproj", "{E26C8C1E-549B-4DF6-A3ED-2BBE2B332669}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Encryption", "2 - Encryption", "{F0D79D5D-C695-4914-B381-D908008999D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,11 +21,16 @@ Global
 		{4C5F9A1F-630B-4182-A26C-C3BC822DCD58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C5F9A1F-630B-4182-A26C-C3BC822DCD58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C5F9A1F-630B-4182-A26C-C3BC822DCD58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E26C8C1E-549B-4DF6-A3ED-2BBE2B332669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E26C8C1E-549B-4DF6-A3ED-2BBE2B332669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E26C8C1E-549B-4DF6-A3ED-2BBE2B332669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E26C8C1E-549B-4DF6-A3ED-2BBE2B332669}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{4C5F9A1F-630B-4182-A26C-C3BC822DCD58} = {0C6B3584-8D92-41B8-855C-907492C95D07}
+		{E26C8C1E-549B-4DF6-A3ED-2BBE2B332669} = {F0D79D5D-C695-4914-B381-D908008999D3}
 	EndGlobalSection
 EndGlobal

@@ -12,3 +12,4 @@ C:\Users\'Seyi\Desktop\PROJS\CRYPTOGRAPHY\CRYPTOGRAPHY\obj\Debug\net8.0\refint\C
 C:\Users\'Seyi\Desktop\PROJS\CRYPTOGRAPHY\CRYPTOGRAPHY\obj\Debug\net8.0\CRYPTOGRAPHY.pdb
 C:\Users\'Seyi\Desktop\PROJS\CRYPTOGRAPHY\CRYPTOGRAPHY\obj\Debug\net8.0\CRYPTOGRAPHY.genruntimeconfig.cache
 C:\Users\'Seyi\Desktop\PROJS\CRYPTOGRAPHY\CRYPTOGRAPHY\obj\Debug\net8.0\ref\CRYPTOGRAPHY.dll
+C:\Users\'Seyi\Desktop\PROJS\CRYPTOGRAPHY\CRYPTOGRAPHY\obj\Debug\net8.0\CRYPTOGRAPHY.sourcelink.json
