@@ -1,0 +1,15 @@
+C:\Users\'Seyi\Desktop\PROJS\CRYPTOGRAPHY\TripleDES\bin\Debug\net9.0\TripleDES.exe
+C:\Users\'Seyi\Desktop\PROJS\CRYPTOGRAPHY\TripleDES\bin\Debug\net9.0\TripleDES.deps.json
+C:\Users\'Seyi\Desktop\PROJS\CRYPTOGRAPHY\TripleDES\bin\Debug\net9.0\TripleDES.runtimeconfig.json
+C:\Users\'Seyi\Desktop\PROJS\CRYPTOGRAPHY\TripleDES\bin\Debug\net9.0\TripleDES.dll
+C:\Users\'Seyi\Desktop\PROJS\CRYPTOGRAPHY\TripleDES\bin\Debug\net9.0\TripleDES.pdb
+C:\Users\'Seyi\Desktop\PROJS\CRYPTOGRAPHY\TripleDES\obj\Debug\net9.0\TripleDES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\'Seyi\Desktop\PROJS\CRYPTOGRAPHY\TripleDES\obj\Debug\net9.0\TripleDES.AssemblyInfoInputs.cache
+C:\Users\'Seyi\Desktop\PROJS\CRYPTOGRAPHY\TripleDES\obj\Debug\net9.0\TripleDES.AssemblyInfo.cs
+C:\Users\'Seyi\Desktop\PROJS\CRYPTOGRAPHY\TripleDES\obj\Debug\net9.0\TripleDES.csproj.CoreCompileInputs.cache
+C:\Users\'Seyi\Desktop\PROJS\CRYPTOGRAPHY\TripleDES\obj\Debug\net9.0\TripleDES.sourcelink.json
+C:\Users\'Seyi\Desktop\PROJS\CRYPTOGRAPHY\TripleDES\obj\Debug\net9.0\TripleDES.dll
+C:\Users\'Seyi\Desktop\PROJS\CRYPTOGRAPHY\TripleDES\obj\Debug\net9.0\refint\TripleDES.dll
+C:\Users\'Seyi\Desktop\PROJS\CRYPTOGRAPHY\TripleDES\obj\Debug\net9.0\TripleDES.pdb
+C:\Users\'Seyi\Desktop\PROJS\CRYPTOGRAPHY\TripleDES\obj\Debug\net9.0\TripleDES.genruntimeconfig.cache
+C:\Users\'Seyi\Desktop\PROJS\CRYPTOGRAPHY\TripleDES\obj\Debug\net9.0\ref\TripleDES.dll

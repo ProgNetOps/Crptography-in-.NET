@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\CRYPTOGRAPHY\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E26C8C1E-549B-4DF6-A3ED-2BBE2B332669}|AES\\AES.csproj|c:\\users\\\u0027seyi\\desktop\\projs\\cryptography\\aes\\aesencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E26C8C1E-549B-4DF6-A3ED-2BBE2B332669}|AES\\AES.csproj|solutionrelative:aes\\aesencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CFE22491-7618-490C-9064-CBAA2C1F79E4}|TripleDES\\TripleDES.csproj|c:\\users\\\u0027seyi\\desktop\\projs\\cryptography\\tripledes\\tripledesencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFE22491-7618-490C-9064-CBAA2C1F79E4}|TripleDES\\TripleDES.csproj|solutionrelative:tripledes\\tripledesencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE22491-7618-490C-9064-CBAA2C1F79E4}|TripleDES\\TripleDES.csproj|c:\\users\\\u0027seyi\\desktop\\projs\\cryptography\\tripledes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFE22491-7618-490C-9064-CBAA2C1F79E4}|TripleDES\\TripleDES.csproj|solutionrelative:tripledes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E26C8C1E-549B-4DF6-A3ED-2BBE2B332669}|AES\\AES.csproj|c:\\users\\\u0027seyi\\desktop\\projs\\cryptography\\aes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E26C8C1E-549B-4DF6-A3ED-2BBE2B332669}|AES\\AES.csproj|solutionrelative:aes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C5F9A1F-630B-4182-A26C-C3BC822DCD58}|CRYPTOGRAPHY\\CRYPTOGRAPHY.csproj|c:\\users\\\u0027seyi\\desktop\\projs\\cryptography\\cryptography\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C5F9A1F-630B-4182-A26C-C3BC822DCD58}|CRYPTOGRAPHY\\CRYPTOGRAPHY.csproj|solutionrelative:cryptography\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E26C8C1E-549B-4DF6-A3ED-2BBE2B332669}|AES\\AES.csproj|c:\\users\\\u0027seyi\\desktop\\projs\\cryptography\\aes\\aesencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E26C8C1E-549B-4DF6-A3ED-2BBE2B332669}|AES\\AES.csproj|solutionrelative:aes\\aesencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,40 +55,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AesEncryption.cs",
-              "DocumentMoniker": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\CRYPTOGRAPHY\\AES\\AesEncryption.cs",
-              "RelativeDocumentMoniker": "AES\\AesEncryption.cs",
-              "ToolTip": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\CRYPTOGRAPHY\\AES\\AesEncryption.cs",
-              "RelativeToolTip": "AES\\AesEncryption.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
+              "Title": "TripleDesEncryption.cs",
+              "DocumentMoniker": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\CRYPTOGRAPHY\\TripleDES\\TripleDesEncryption.cs",
+              "RelativeDocumentMoniker": "TripleDES\\TripleDesEncryption.cs",
+              "ToolTip": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\CRYPTOGRAPHY\\TripleDES\\TripleDesEncryption.cs",
+              "RelativeToolTip": "TripleDES\\TripleDesEncryption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T14:15:33.969Z",
+              "WhenOpened": "2025-05-07T10:25:31.15Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\CRYPTOGRAPHY\\AES\\Program.cs",
-              "RelativeDocumentMoniker": "AES\\Program.cs",
-              "ToolTip": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\CRYPTOGRAPHY\\AES\\Program.cs",
-              "RelativeToolTip": "AES\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\CRYPTOGRAPHY\\TripleDES\\Program.cs",
+              "RelativeDocumentMoniker": "TripleDES\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\CRYPTOGRAPHY\\TripleDES\\Program.cs",
+              "RelativeToolTip": "TripleDES\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T14:02:30.992Z",
+              "WhenOpened": "2025-05-07T10:24:47.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AesEncryption.cs",
+              "DocumentMoniker": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\CRYPTOGRAPHY\\AES\\AesEncryption.cs",
+              "RelativeDocumentMoniker": "AES\\AesEncryption.cs",
+              "ToolTip": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\CRYPTOGRAPHY\\AES\\AesEncryption.cs",
+              "RelativeToolTip": "AES\\AesEncryption.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T14:15:33.969Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\CRYPTOGRAPHY\\CRYPTOGRAPHY\\Program.cs",
-              "RelativeDocumentMoniker": "CRYPTOGRAPHY\\Program.cs",
-              "ToolTip": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\CRYPTOGRAPHY\\CRYPTOGRAPHY\\Program.cs",
-              "RelativeToolTip": "CRYPTOGRAPHY\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\CRYPTOGRAPHY\\AES\\Program.cs",
+              "RelativeDocumentMoniker": "AES\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0027Seyi\\Desktop\\PROJS\\CRYPTOGRAPHY\\AES\\Program.cs",
+              "RelativeToolTip": "AES\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T10:03:48.719Z",
+              "WhenOpened": "2025-05-05T14:02:30.992Z",
               "EditorCaption": ""
             }
           ]
