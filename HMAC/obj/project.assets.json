@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\'Seyi\\Desktop\\PROJS\\CRYPTOGRAPHY\\Hashing\\Hashing.csproj",
-      "projectName": "Hashing",
-      "projectPath": "C:\\Users\\'Seyi\\Desktop\\PROJS\\CRYPTOGRAPHY\\Hashing\\Hashing.csproj",
+      "projectUniqueName": "C:\\Users\\'Seyi\\Desktop\\PROJS\\CRYPTOGRAPHY\\HMAC\\HMAC.csproj",
+      "projectName": "HMAC",
+      "projectPath": "C:\\Users\\'Seyi\\Desktop\\PROJS\\CRYPTOGRAPHY\\HMAC\\HMAC.csproj",
       "packagesPath": "C:\\Users\\'Seyi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\'Seyi\\Desktop\\PROJS\\CRYPTOGRAPHY\\Hashing\\obj\\",
+      "outputPath": "C:\\Users\\'Seyi\\Desktop\\PROJS\\CRYPTOGRAPHY\\HMAC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
